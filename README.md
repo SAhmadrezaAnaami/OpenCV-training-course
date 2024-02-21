@@ -82,18 +82,11 @@ print("Hello, world!")
 
 **Additional Tips:**
 
-* **Create virtual environments:** It's recommended to use virtual environments to manage project dependencies and avoid conflicts with other Python installations. You can use tools like `venv` or `virtualenv` for this purpose.
 * **Explore extensions:** VS Code offers various extensions for Python development, such as linters, debuggers, and code formatters. Explore the Extensions marketplace to find extensions that enhance your workflow.
 * **Refer to official documentation:** For more detailed information and troubleshooting, refer to the official documentation for VS Code and Python:
     * VS Code Python documentation: [https://code.visualstudio.com/docs/python/python-tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
-    * Python documentation: [https://docs.python.org/](https://docs.python.org/)
-
-I hope this revised tutorial provides a clearer and more focused guide for setting up VS Code for your Python development needs. Feel free to ask if you have any further questions!
-
-
 
 * If you encounter any issues during installation, refer to the official Python documentation for troubleshooting: [https://www.python.org/doc/](https://www.python.org/doc/)
-* Consider using a virtual environment to manage different Python versions and their dependencies for your projects
   
 
 
