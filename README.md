@@ -24,7 +24,7 @@ Here's a full tutorial on installing Python version 3.10.x on Windows:
 * Type `python --version` and press Enter. You should see the installed Python version, like `Python 3.10.10`.
 * Alternatively, open the IDLE application (search for "IDLE" in the Start menu). The title bar should display the installed Python version.
 
-**Optional: Add Python to PATH (if not selected during installation):**
+**Optional: Add Python to PATH (if not selected "Add Python 3.10 to PATH" option during installation ):**
 
 * Right-click on "This PC" or "My Computer" and select "Properties".
 * Go to "Advanced system settings" -> "Environment Variables".
