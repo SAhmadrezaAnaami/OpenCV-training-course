@@ -16,9 +16,7 @@ Here's a full tutorial on installing Python version 3.10.x on Windows:
 **2. Run the installer:**
 
 * Double-click the downloaded installer file.
-* Follow the on-screen instructions. Here are some important points:
-    * **Customize installation:** It's recommended to **check the "Add Python 3.10 to PATH" option**. This allows you to run Python from any directory in your command prompt.
-    * **Uncheck unnecessary options:** Deselect options like "Install launcher for all users" if you only want Python for your account.
+* Note to check the "Add Python 3.10 to PATH" option
 
 **3. Verify the installation:**
 
