@@ -1,44 +1,51 @@
 # OpenCV-training-course
 from this repo you can learn OpenCV step by step in a simple way
 
+## Installing Python 3.10.x on Windows
 
-## آموزش نصب پایتون بر روی ویندوز به صورت کامل
+Here's a full tutorial on installing Python version 3.10.x on Windows:
 
-**مراحل نصب:**
+**1. Download the installer:**
 
-**1. دانلود پایتون:**
+* Visit the official Python downloads page: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+* Locate the latest stable release in the 3.10.x series (currently 3.10.10).
+* Choose the appropriate installer based on your system:
+    * **Windows x64** for most modern 64-bit systems.
+    * **Windows x86** for older 32-bit systems.
 
-* به وب سایت رسمی پایتون ([https://www.python.org/downloads/](https://www.python.org/downloads/)) بروید.
-* نسخه ی **3.x.x** پایتون را متناسب با سیستم عامل خود (32 بیتی یا 64 بیتی) دانلود کنید.
+**2. Run the installer:**
 
-**2. نصب پایتون:**
+* Double-click the downloaded installer file.
+* Follow the on-screen instructions. Here are some important points:
+    * **Customize installation:** It's recommended to **check the "Add Python 3.10 to PATH" option**. This allows you to run Python from any directory in your command prompt.
+    * **Uncheck unnecessary options:** Deselect options like "Install launcher for all users" if you only want Python for your account.
 
-* فایل دانلود شده را اجرا کنید.
-* در پنجره ی باز شده، گزینه ی **Install Now** را انتخاب کنید.
+**3. Verify the installation:**
 
-**3. تنظیمات نصب:**
+* Open a command prompt window (search for "cmd" in the Start menu).
+* Type `python --version` and press Enter. You should see the installed Python version, like `Python 3.10.10`.
+* Alternatively, open the IDLE application (search for "IDLE" in the Start menu). The title bar should display the installed Python version.
 
-* در این مرحله، می توانید تنظیمات دلخواه خود را برای نصب پایتون اعمال کنید.
-* به طور پیش فرض، پایتون در مسیر **C:\Users\<نام کاربری>\AppData\Local\Programs\Python\Python39** نصب می شود.
-* می توانید این مسیر را به دلخواه خود تغییر دهید.
-* پیشنهاد می شود گزینه ی **Add Python to path** را فعال کنید تا بتوانید از پایتون در هر مسیری از خط فرمان استفاده کنید.
+**Optional: Add Python to PATH (if not selected during installation):**
 
-**4. اتمام نصب:**
+* Right-click on "This PC" or "My Computer" and select "Properties".
+* Go to "Advanced system settings" -> "Environment Variables".
+* Under "System variables", find the "Path" variable and click "Edit".
+* Click "New" and add the following path (replace "x.x" with your actual version):
 
-* پس از اتمام مراحل نصب، پنجره ی نصب به طور خودکار بسته می شود.
-* برای تایید نصب پایتون، می توانید خط فرمان (cmd) را باز کنید و دستور **python** را وارد کنید.
-* اگر پایتون به درستی نصب شده باشد، اطلاعات مربوط به نسخه ی پایتون نمایش داده می شود.
+```
+C:\Python3x.x
+```
 
-**نکات:**
+* Click "OK" on all open windows to save the changes.
 
-* قبل از نصب پایتون، از بسته بودن تمام برنامه های دیگر اطمینان حاصل کنید.
-* در صورت بروز مشکل در نصب پایتون، می توانید به وب سایت رسمی پایتون مراجعه کرده و از بخش **Help** راهنمایی دریافت کنید.
-* پس از نصب پایتون، می توانید از منابع آموزشی آنلاین و کتاب های مختلف برای یادگیری برنامه نویسی پایتون استفاده کنید.
+**Congratulations!** You have successfully installed Python 3.10.x on your Windows system. 
 
-**منابع آموزشی:**
+**Additional notes:**
 
-* وب سایت رسمی پایتون: [https://www.python.org/](https://www.python.org/)
-* دوره آموزش مقدماتی پایتون در فرادرس: [نشانی وب نامعتبر برداشته شد]
-* کتاب "آموزش پایتون" به زبان فارسی: [نشانی وب نامعتبر برداشته شد]
+* If you encounter any issues during installation, refer to the official Python documentation for troubleshooting: [https://www.python.org/doc/](https://www.python.org/doc/)
+* Consider using a virtual environment to manage different Python versions and their dependencies for your projects.
 
-**موفق باشید!**
+I hope this comprehensive guide helps you install Python 3.10.x on your Windows system. Feel free to ask if you have any further questions!
+
+
