@@ -5,6 +5,8 @@ from this repository, you can learn OpenCV step by step in a simple way
 
 Here's a full tutorial on installing Python version 3.10.x on Windows:
 
+```diff
+
 **1. Download the installer:**
 
 * Visit the official Python downloads page: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
@@ -12,6 +14,8 @@ Here's a full tutorial on installing Python version 3.10.x on Windows:
 * Choose the appropriate installer based on your system:
     * **Windows x64** for most modern 64-bit systems.
     * **Windows x86** for older 32-bit systems.
+
+```
 
 **2. Run the installer:**
 
