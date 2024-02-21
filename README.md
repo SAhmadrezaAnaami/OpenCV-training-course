@@ -1,7 +1,7 @@
 # OpenCV-training-course
 from this repository, you can learn OpenCV step by step in a simple way
 
- ## <span style="color: red;"> Installing Python 3.10.x on Windows </span>
+ ## - Installing Python 3.10.x on Windows
 
 Here's a full tutorial on installing Python version 3.10.x on Windows:
 
