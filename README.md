@@ -42,8 +42,7 @@ C:\Python3x.x
 **Additional notes:**
 
 * If you encounter any issues during installation, refer to the official Python documentation for troubleshooting: [https://www.python.org/doc/](https://www.python.org/doc/)
-* Consider using a virtual environment to manage different Python versions and their dependencies for your projects.
-
-I hope this comprehensive guide helps you install Python 3.10.x on your Windows system. Feel free to ask if you have any further questions!
+* Consider using a virtual environment to manage different Python versions and their dependencies for your projects
+  
 
 
