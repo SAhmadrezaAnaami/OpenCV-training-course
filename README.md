@@ -39,10 +39,6 @@ C:\Python3x.x
 
 **Congratulations!** You have successfully installed Python 3.10.x on your Windows system. 
 
-**Additional notes:**
-
-I apologize for explaining Python in the previous tutorial. Since you already have Python installed, let's focus on setting up VS Code for Python development:
-
 ## Installing an IDE like VS code
 
 **1. Install VS Code:**
