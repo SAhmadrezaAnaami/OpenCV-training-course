@@ -83,7 +83,24 @@ print("Hello, world!")
     * VS Code Python documentation: [https://code.visualstudio.com/docs/python/python-tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
 
 * If you encounter any issues during installation, refer to the official Python documentation for troubleshooting: [https://www.python.org/doc/](https://www.python.org/doc/)
-  
+
+## Installing Python Extension for VS Code
+
+In addition to installing Python itself, you'll also need the Python extension for Visual Studio Code to enable features like syntax highlighting, debugging, and code completion for Python development. Here's a quick guide:
+
+1. **Open VS Code:** Launch VS Code from your Start menu or desktop shortcut.
+
+2. **Open the Extensions view:** Click on the Extensions icon (looks like a box with four squares) in the left sidebar, or go to **View > Extensions**.
+
+3. **Search for "Python":** In the search bar, type "Python" and press Enter.
+
+4. **Install the official "Python" extension:** The extension developed by Microsoft should be the first result. Click the "Install" button.
+
+5. **Verify installation:** Open a terminal in VS Code (**Terminal > New Terminal**). Type `python --version` and press Enter. This should confirm successful integration with VS Code.
+
+With the Python extension installed, you're ready to start writing, running, and debugging Python code within the familiar VS Code environment!
+
+
 ## Installing OpenCV python
 
 **Installation Steps:**
@@ -149,4 +166,3 @@ In addition to OpenCV, you can easily install Matplotlib for creating visualizat
 **Additional Notes:**
 
 - Refer to the official Matplotlib documentation for advanced usage or specific requirements: [https://matplotlib.org/stable/users/installing/index.html](https://matplotlib.org/stable/users/installing/index.html)
-
